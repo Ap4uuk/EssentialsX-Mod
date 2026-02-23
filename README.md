@@ -41,25 +41,6 @@
 
 ---
 
-## 🚀 Установка
-
-1. Установите **Minecraft Forge 1.20.1 (47.+)**.
-2. Скачайте последний релиз из раздела [Releases](../../releases).
-3. Поместите JAR-файл в папку `mods/` сервера или клиента.
-4. Запустите игру — мод активируется автоматически.
-
----
-
-## 🛠️ Сборка из исходников
-
-```bash
-git clone https://github.com/Ap4uuk/essentialsx.git
-cd essentialsx
-./gradlew build
-```
-
----
-
 ## 🛡️ Права доступа
 
 Все права доступа мод выдаёт в формате `essentialsx.*`. Ниже собраны все узлы из [enum `Permissions`](src/main/java/ru/ap4uuk/essentialsx/data/Permissions.java) и сгруппированы по назначению.
